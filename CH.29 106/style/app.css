@@ -1,0 +1,26 @@
+body,
+html {
+    background-color: #fafafa;
+    margin: 0;
+    padding: 0;
+}
+
+h1 { 
+    color: red;
+    background-color: rgb(88, 88, 88);
+    margin-top: 0;
+    text-align: center;
+    padding: 5px 0;
+}
+
+.form {
+    border: 1px solid #6a6a6a;
+    padding: 20px 30px;
+    width: 350px;
+    margin: 20px auto 0 auto;
+}
+
+.control {
+    font-size: 14px;
+    background-color: beige;
+}
